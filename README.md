@@ -12,7 +12,7 @@ conda update jupyter numpy sympy scipy matplotlib
 conda clean -tipsy
 ```
 
-To start a notebook server
+To start a notebook server:
 
 ```console
 jupyter notebook
