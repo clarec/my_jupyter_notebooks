@@ -23,7 +23,10 @@ jupyter notebook
 ## Index
 [Notebook Index](Index.ipynb)
 
-* [First attempt at creating slides using jupyter](NBPresent_test.ipynb)
-* [Notes on using regex in python](regex.ipynb)
+* Python 2 notebooks:
+  + [Plotting with Basemap - polar stereographic projections](basemap_plots.ipynb)
+* Python 3 notebooks:
+  + [First attempt at creating slides using jupyter](NBPresent_test.ipynb)
+  + [Notes on using regex in python](regex.ipynb) 
 
 Need a short description of each notebook...
