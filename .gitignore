@@ -32,3 +32,9 @@
 ### directories ##
 ###################
 data/
+
+
+###########
+## Other ##
+###########
+plotting_sea_ice_concentration.ipynb # this has errors
