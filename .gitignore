@@ -36,5 +36,4 @@ data/
 ###########
 ## Other ##
 ###########
-# this notebook has errors
 ./plotting_sea_ice_concentration.ipynb 
