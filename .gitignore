@@ -36,4 +36,4 @@ data/
 ###########
 ## Other ##
 ###########
-./plotting_sea_ice_concentration.ipynb 
+plotting_sea_ice_concentration.ipynb
