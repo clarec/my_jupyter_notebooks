@@ -24,8 +24,12 @@ jupyter notebook
 [Notebook Index](Index.ipynb)
 
 * Python 2 notebooks:
+
   + [Plotting with Basemap - polar stereographic projections](basemap_plots.ipynb)
+  + [Plot CICE outputs](plot_cice_outputs.ipynb)
+
 * Python 3 notebooks:
+
   + [First attempt at creating slides using jupyter](NBPresent_test.ipynb)
   + [Notes on using regex in python](regex.ipynb) 
   + [CICE equations](SeaIceEquations.ipynb)
